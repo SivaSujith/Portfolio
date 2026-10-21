@@ -2,7 +2,7 @@
 
 An award-winning, luxury interactive portfolio featuring an ultra-smooth, 60 FPS zero-ghosting, circular cursor-tracking character animation and refined aesthetic design.
 
-![Portfolio Preview](public/frames/frame_00.webp)
+![Portfolio Preview](public/frames/center.webp)
 
 ---
 
