@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-base: #dfd2c1;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-bg-base);
+  /* removed overflow: hidden to allow page scrolling */
+}
+
+/* Custom cursor default styling */
+* {
+  cursor: none !important;
+}
